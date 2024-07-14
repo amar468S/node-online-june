@@ -1,0 +1,43 @@
+save a file using .editor
+load a file using .editor
+
+console.log(modulename); // will show all the methods in the module
+
+eg; console.log(os);
+
+
+var power = 5;
+
+power. click tab tab => will show all the methods associated
+
+
+----------------------------------------------------Day2 
+1. path module
+	- resolve()
+	- join()
+	- normalize()
+
+2. process
+	
+3. module exports
+
+4. Events
+	Class: EventEmitter
+	
+5. Working with file system => FileSystem
+	Synchronous vs Asynchronous IO
+	File constants (__dirname and __filename)
+	Synchronous file operations
+	Asynchronous file operations
+	Filesystem watcher
+	
+	
+	
+	
+
+
+---------------------------------------------------- Day 7
+ Emmet cheatsheet => https://docs.emmet.io/cheat-sheet/
+	
+	
+
