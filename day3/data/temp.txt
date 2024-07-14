@@ -1,0 +1,21 @@
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+Welcome to node js 
+
+0.733413384319987
+0.4056821472701191
+0.2594537280707734
+0.30796592468605954
+0.950389742825666
+0.6821017353868368
+0.8831981121546617
