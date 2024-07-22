@@ -1,0 +1,15 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        title Document
+    body 
+        h1 Home page from pug template 
+        h2 company title comes here
+        form(action="#", method="post")
+            input(type="text" name="newhero")
+            button(type="submit") Add New Hero  
+        ul 
+            each hero in herodata.avengers
+                li #{hero} 
