@@ -1,0 +1,8 @@
+{
+    "host" : "localhost",
+    "port" : 5054,
+    "username" : "admin",
+    "password" : "C0qsEoe3wIpSQYf3",
+    "dbsecret" : "bqdo2vm",
+    "dbname" : "onlineDB"
+}
